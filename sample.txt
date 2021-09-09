@@ -1,0 +1,4 @@
+Wakanda,999,2999
+Kenya,1500,4000
+Kiribati,3000,10000
+Kosovo,150,23250

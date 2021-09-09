@@ -1,0 +1,214 @@
+Country/Area  Year  Unit  Population
+Afghanistan  2012  Persons  30696958
+Albania  2012  Persons  2920039
+Algeria  2012  Persons  37565847
+Andorra  2012  Persons  82431
+Angola  2012  Persons  25096150
+Anguilla  2012  Persons  14129
+Antigua and Barbuda  2012  Persons  96777
+Argentina  2012  Persons  42096739
+Armenia  2012  Persons  2881922
+Aruba  2012  Persons  102577
+Australia  2012  Persons  22821849
+Austria  2012  Persons  8517548
+Azerbaijan  2012  Persons  9264917
+Bahamas  2012  Persons  372039
+Bahrain  2012  Persons  1300217
+Bangladesh  2012  Persons  155727053
+Barbados  2012  Persons  281585
+Belarus  2012  Persons  9471730
+Belgium  2012  Persons  11083550
+Belize  2012  Persons  336701
+Benin  2012  Persons  9729160
+Bermuda  2012  Persons  63179
+Bhutan  2012  Persons  752967
+Bolivia (Plurinational State of)  2012  Persons  10239004
+Bosnia and Herzegovina  2012  Persons  3648200
+Botswana  2012  Persons  2089315
+Brazil  2012  Persons  200560983
+British Virgin Islands  2012  Persons  28509
+Brunei Darussalam  2012  Persons  399748
+Bulgaria  2012  Persons  7310383
+Burkina Faso  2012  Persons  16571216
+Burundi  2012  Persons  9319710
+Cabo Verde  2012  Persons  513979
+Cambodia  2012  Persons  14776866
+Cameroon  2012  Persons  21082383
+Canada  2012  Persons  34900705
+Cayman Islands  2012  Persons  57523
+Central African Republic  2012  Persons  4490416
+Chad  2012  Persons  12705135
+Chile  2012  Persons  17309746
+China, Hong Kong SAR  2012  Persons  7106399
+China, Macao Special Administrative Region  2012  Persons  562531
+China, People's Republic of  2012  Persons  1375198619
+Colombia  2012  Persons  46881475
+Comoros  2012  Persons  723868
+Congo  2012  Persons  4633363
+Cook Islands  2012  Persons  17996
+Costa Rica  2012  Persons  4654122
+Croatia  2012  Persons  4296526
+Cuba  2012  Persons  11382146
+Curaçao  2012  Persons  152985
+Cyprus  2012  Persons  863945
+Czechia  2012  Persons  10586755
+Côte d'Ivoire  2012  Persons  21418603
+Democratic People's Republic of Korea  2012  Persons  24730968
+Democratic Republic of the Congo  2012  Persons  68978682
+Denmark  2012  Persons  5610660
+Djibouti  2012  Persons  881185
+Dominica  2012  Persons  72044
+Dominican Republic  2012  Persons  10154950
+Ecuador  2012  Persons  15419666
+Egypt  2012  Persons  87813257
+El Salvador  2012  Persons  6221246
+Equatorial Guinea  2012  Persons  1038593
+Eritrea  2012  Persons  4560977
+Estonia  2012  Persons  1324934
+Ethiopia  2012  Persons  92444183
+Fiji  2012  Persons  873596
+Finland  2012  Persons  5412980
+Former Netherlands Antilles  2012  Persons  188118
+France  2012  Persons  65795131
+French Polynesia  2012  Persons  271703
+Gabon  2012  Persons  1756817
+Gambia  2012  Persons  1802125
+Georgia  2012  Persons  4107719
+Germany  2012  Persons  81066228
+Ghana  2012  Persons  25733049
+Greece  2012  Persons  11378257
+Greenland  2012  Persons  56470
+Grenada  2012  Persons  105481
+Guatemala  2012  Persons  15271056
+Guinea  2012  Persons  11281469
+Guinea-Bissau  2012  Persons  1638139
+Guyana  2012  Persons  753091
+Haiti  2012  Persons  10289210
+Honduras  2012  Persons  8505646
+Hungary  2012  Persons  9869684
+Iceland  2012  Persons  325526
+India  2012  Persons  1263065852
+Indonesia  2012  Persons  248883232
+Iran, Islamic Republic of  2012  Persons  76453574
+Iraq  2012  Persons  32776571
+Ireland  2012  Persons  4678117
+Israel  2012  Persons  7699105
+Italy  2012  Persons  59733834
+Jamaica  2012  Persons  2840992
+Japan  2012  Persons  128426384
+Jordan  2012  Persons  7992573
+Kazakhstan  2012  Persons  16921179
+Kenya  2012  Persons  43646629
+Kingdom of Eswatini  2012  Persons  1248158
+Kiribati  2012  Persons  106613
+Kosovo  2012  Persons  1755487
+Kuwait  2012  Persons  3395556
+Kyrgyzstan  2012  Persons  5594108
+Lao People's Democratic Republic  2012  Persons  6415169
+Latvia  2012  Persons  2066374
+Lebanon  2012  Persons  4916404
+Lesotho  2012  Persons  2089928
+Liberia  2012  Persons  4181563
+Libya  2012  Persons  6198258
+Liechtenstein  2012  Persons  36545
+Lithuania  2012  Persons  3037246
+Luxembourg  2012  Persons  532387
+Madagascar  2012  Persons  22346573
+Malawi  2012  Persons  16097305
+Malaysia  2012  Persons  29170456
+Maldives  2012  Persons  386203
+Mali  2012  Persons  16006670
+Malta  2012  Persons  420789
+Marshall Islands  2012  Persons  52663
+Mauritania  2012  Persons  3830239
+Mauritius  2012  Persons  1253371
+Mexico  2012  Persons  120828307
+Micronesia (Federated States of)  2012  Persons  103503
+Monaco  2012  Persons  37783
+Mongolia  2012  Persons  2814226
+Montenegro  2012  Persons  626386
+Montserrat  2012  Persons  5031
+Morocco  2012  Persons  33333789
+Mozambique  2012  Persons  25676606
+Myanmar  2012  Persons  50986514
+Namibia  2012  Persons  2263934
+Nauru  2012  Persons  10478
+Nepal  2012  Persons  27649925
+Netherlands  2012  Persons  16789095
+New Caledonia  2012  Persons  258275
+New Zealand  2012  Persons  4467743
+Nicaragua  2012  Persons  5877108
+Niger  2012  Persons  17731634
+Nigeria  2012  Persons  167297284
+Norway  2012  Persons  5012007
+Oman  2012  Persons  3464644
+Pakistan  2012  Persons  177911533
+Palau  2012  Persons  20758
+Panama  2012  Persons  3772938
+Papua New Guinea  2012  Persons  7430836
+Paraguay  2012  Persons  6379219
+Peru  2012  Persons  30158966
+Philippines  2012  Persons  96866642
+Poland  2012  Persons  38317404
+Portugal  2012  Persons  10581821
+Puerto Rico  2012  Persons  3697576
+Qatar  2012  Persons  2109568
+Republic of Korea  2012  Persons  49952244
+Republic of Moldova  2012  Persons  4073703
+Romania  2012  Persons  20171255
+Russian Federation  2012  Persons  143420597
+Rwanda  2012  Persons  10788853
+Saint Kitts and Nevis  2012  Persons  52591
+Saint Lucia  2012  Persons  174835
+Saint Vincent and the Grenadines  2012  Persons  109328
+Samoa  2012  Persons  189194
+San Marino  2012  Persons  31914
+Sao Tome and Principe  2012  Persons  182889
+Saudi Arabia  2012  Persons  29086357
+Senegal  2012  Persons  13703513
+Serbia  2012  Persons  7201497
+Seychelles  2012  Persons  92285
+Sierra Leone  2012  Persons  6766103
+Singapore  2012  Persons  5270958
+Sint Maarten (Dutch part)  2012  Persons  35133
+Slovakia  2012  Persons  5417070
+Slovenia  2012  Persons  2060390
+Solomon Islands  2012  Persons  551531
+Somalia  2012  Persons  12763776
+South Africa  2012  Persons  52998213
+South Sudan  2012  Persons  10818258
+Spain  2012  Persons  46857404
+Sri Lanka  2012  Persons  20424555
+State of Palestine  2012  Persons  4294960
+Sudan  2012  Persons  35990192
+Suriname  2012  Persons  537077
+Sweden  2012  Persons  9540907
+Switzerland  2012  Persons  8031670
+Syrian Arab Republic  2012  Persons  20420701
+Tajikistan  2012  Persons  7995062
+Thailand  2012  Persons  67843979
+The former Yugoslav Republic of Macedonia  2012  Persons  2074036
+Timor-Leste  2012  Persons  1156760
+Togo  2012  Persons  6859482
+Tonga  2012  Persons  104951
+Trinidad and Tobago  2012  Persons  1341588
+Tunisia  2012  Persons  10886668
+Turkey  2012  Persons  74569867
+Turkmenistan  2012  Persons  5267839
+Turks and Caicos Islands  2012  Persons  32431
+Tuvalu  2012  Persons  10725
+Uganda  2012  Persons  36306796
+Ukraine  2012  Persons  45349333
+United Arab Emirates  2012  Persons  8900453
+United Kingdom of Great Britain and Northern Ireland  2012  Persons  64250330
+United Republic of Tanzania: Mainland  2012  Persons  47779428
+United Republic of Tanzania: Zanzibar  2012  Persons  1303569
+United States  2012  Persons  313335423
+Uruguay  2012  Persons  3396777
+Uzbekistan  2012  Persons  29540819
+Vanuatu  2012  Persons  247485
+Venezuela (Bolivarian Republic of)  2012  Persons  29893080
+Viet Nam  2012  Persons  90451881
+Yemen  2012  Persons  24909969
+Zambia  2012  Persons  14699937
+Zimbabwe  2012  Persons  14710826
